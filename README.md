@@ -20,7 +20,7 @@ This Project Consists of 3 main pages:
 
     ![screenshot(1)](https://github.com/purvilnakrani/Flashcard-Generator/blob/master/screenshots/screenshot(1).png?raw=true)
 
-   ![screenshot(2)](https://github.com/Ashvary1996/flashcardgenerator/assets/89014041/9e095c5e-0ae6-4803-bb0c-03fd07e15bd9)
+   ![screenshot(2)](https://github.com/purvilnakrani/Flashcard-Generator/blob/master/screenshots/screenshot(2).png?raw=true)
 
 2. ### `MyFlashCard Page`
 
@@ -28,30 +28,34 @@ This Project Consists of 3 main pages:
    Each group is presented with a group heading, an associated group icon image, a description of the card group,
    the total count of cards within the group, and a button for accessing the cards on the subsequent page.
 
-   ![screenshot(3)](https://github.com/Ashvary1996/flashcardgenerator/assets/89014041/98601e96-12eb-47db-ae77-b486ef07bfd5)
+   ![screenshot(3)](https://github.com/purvilnakrani/Flashcard-Generator/blob/master/screenshots/screenshot(3).png?raw=true)
 
    Modal for deleting single flashcard.
 
-    ![screenshot(4)](https://github.com/Ashvary1996/flashcardgenerator/assets/89014041/043eda50-4e8e-42bc-8376-daff7debe9e0)
+    ![screenshot(4)](https://github.com/purvilnakrani/Flashcard-Generator/blob/master/screenshots/screenshot(4).png?raw=true)
 
    If you have not created any flashcards then it will show No Flashcards available.
 
-   ![screenshot(5)](https://github.com/Ashvary1996/flashcardgenerator/assets/89014041/0e37ed01-c8c0-4672-8838-c2779257e0e8)
+   ![screenshot(5)](https://github.com/purvilnakrani/Flashcard-Generator/blob/master/screenshots/screenshot(5).png?raw=true)
 
 3. ### `FlashCardDetails Page`
    In this section, you have the ability to review the created flashcards.
    Navigation between different flashcards is facilitated by clicking on the sidebar terms assigned to the cards during group creation.
    Additionally, options for sharing, printing, and downloading the flashcards are available.
 
-    ![screenshot(6)](https://github.com/Ashvary1996/flashcardgenerator/assets/89014041/ae48bf99-b6d1-4db5-80af-d8abeb7250f9)
+    ![screenshot(6)](https://github.com/purvilnakrani/Flashcard-Generator/blob/master/screenshots/screenshot(6).png?raw=true)
 
     This is the share page component which gives the multiple option for sharing this page.
 
-   ![screenshot(7)](https://github.com/Ashvary1996/flashcardgenerator/assets/89014041/a6a0aaba-97f3-40d7-b62b-a3f93a29cedc)
+   ![screenshot(7)](https://github.com/purvilnakrani/Flashcard-Generator/blob/master/screenshots/screenshot(7).png?raw=true)
+   
+
 
 ### `TECHNOLOGIES USED`
 
 This project was constructed utilizing a variety of frontend technologies, including the `React` `JavaScript` library for the core structure, `Tailwind CSS` to craft a responsive user interface, `Redux` for efficient state management, `React-icons`, `Formik`, `React-Router-Dom`,`jspdf`,`yup` and `react-testing-library/jest` for testing purposes.
+
+
 
 
 
