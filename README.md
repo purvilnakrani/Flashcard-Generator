@@ -57,5 +57,4 @@ This project was constructed utilizing a variety of frontend technologies, inclu
 
 ## Feedback
 
-If you have any feedback, please reach out to us at ashvarygidian1996@gmail.com / prachirajput210497@gmail.com /
--ashahnawaz010@gmail.com / sudhirme101@gmail.com  
+If you have any feedback, please reach out to me at - purvil.nakrani@gmail.com 
