@@ -3,6 +3,10 @@
 ### `Deploy Link`
 
    https://flashcard-generator-1211.netlify.app/
+
+### `Youtube presentation video link`
+
+   https://youtu.be/czV9jzOkxHI
    
 
 ## `Project Description`
