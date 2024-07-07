@@ -1,4 +1,4 @@
-# `FLASHCARD GENERATOR`
+# `FLASHCARD GENERATOR`  ( Frontend )
 
 ### `Deploy Link`
 
